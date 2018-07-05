@@ -6,3 +6,13 @@ excel-parsing-with-php.000webhostapp.com
 
 Used PHPExcel
   download classes from PHPExcel Library
+  
+  
+# Notes for self
+
+To run the project
+  - go to the project directory 
+  - php -S filename.php
+  
+ -  and in the browser 
+  - localhost:8080/filename.php
